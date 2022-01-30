@@ -32,6 +32,6 @@ public class Main {
     }
     if (isPalinedrome == false) System.out.println("Nije paliendrom");
     else System.out.println("Paliendrom je" );
-
+// Zašto dva "==" kod false?
     }
 }
